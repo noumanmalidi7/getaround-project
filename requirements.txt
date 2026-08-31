@@ -1,0 +1,15 @@
+pandas
+numpy
+plotly
+seaborn
+scikit-learn
+xgboost
+fastapi
+uvicorn
+pydantic
+requests
+openpyxl
+joblib
+python-multipart
+streamlit
+nbformat
